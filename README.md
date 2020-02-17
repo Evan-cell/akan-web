@@ -20,6 +20,7 @@ includes an index.html file and homejs
 name:kimani Evan
 Tell:0797356387
 Address:Nairobi kenya
+Moringa school
 Email:malcomchege0582@gmail.com
 #licence
 ISC License
