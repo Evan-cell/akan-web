@@ -13,6 +13,7 @@ just by their names. This is why you need to read this article to know more abou
 and their meanings. Read more: https://yen.com.gh/115080-akan-names-meanings.html
 The website will help to calculate the day of birth based on the Akan names.
 #authors info
+by i myself
 THE PROJECT WAS FACILITATED BY MORINGA STUDENTS AND TM
 #setup instructions
 includes an index.html file and homejs
