@@ -23,7 +23,7 @@ Tell:0797356387
 Address:Nairobi kenya
 Moringa school
 Email:malcomchege0582@gmail.com
-#licence
+#licence and copyright
 ISC License
 
 Copyright (c) [2020], [kimani Evan]
