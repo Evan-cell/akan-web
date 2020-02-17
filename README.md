@@ -19,6 +19,7 @@ includes an index.html file and homejs
 #contact info
 name:kimani Evan
 Tell:0797356387
+Address:Nairobi kenya
 Email:malcomchege0582@gmail.com
 #licence
 ISC License
