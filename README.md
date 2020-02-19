@@ -14,6 +14,7 @@ to tell what led to someone’s birth, the day they were born and their rank amo
 just by their names. This is why you need to read this article to know more about Akan names
 and their meanings. Read more: https://yen.com.gh/115080-akan-names-meanings.html
 The website will help to calculate the day of birth based on the Akan names.
+
 #authors info
 
 by i myself
