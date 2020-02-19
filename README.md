@@ -1,5 +1,7 @@
 # akan-web
+
 #project description
+
 Akan names come from a traditional naming system for people from countries such as Togo,
 Ivory Coast and Ghana. A child’s name is determined by factors surrounding his or her birth.
 For example, the day of their birth or the manner in which they were born may determine which
@@ -13,13 +15,15 @@ just by their names. This is why you need to read this article to know more abou
 and their meanings. Read more: https://yen.com.gh/115080-akan-names-meanings.html
 The website will help to calculate the day of birth based on the Akan names.
 #authors info
+
 by i myself
 THE PROJECT WAS FACILITATED BY MORINGA STUDENTS AND TM
 #setup instructions
+
 includes an index.html file and homejs
 #contact info
+
 name:kimani Evan
-Tell:0797356387
 Address:Nairobi kenya
 Moringa school
 Email:malcomchege0582@gmail.com
